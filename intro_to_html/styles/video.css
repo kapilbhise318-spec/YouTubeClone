@@ -1,0 +1,175 @@
+
+.images {
+    width:400px;
+    display:block;
+
+}
+
+.search-bar {
+    font-size: 20px;
+    display:block;
+
+
+}
+
+.video-title{
+    font-size: 40px;
+    width: 300px;
+    margin-top: 30px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-bottom: 12px;
+    margin-bottom: 8px;
+
+
+}
+
+.video-author{
+    display:inline-block;
+    font-size: 20px;
+}
+
+.video-stats{
+    display:inline-block;
+}
+
+.video-preview {
+    display:inline-block;
+    vertical-align:top;
+    margin-right:10px;
+    width: 400px;
+}
+
+.channel-picture{
+    background-color: grey;
+}
+
+.video-info{
+    display:inline-block;   
+    width: 250px;
+}
+
+.profile-picture{
+    display:inline-block;
+    width:50px;
+    border-radius:40px;
+    background-color:grey;
+    justify-content: space-between;
+}
+
+.images-row{
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.video-author1{
+    font-size:12px;
+    color:rgb(93, 96, 96);
+    font-size:20px;
+    margin-bottom:8px;
+}  
+
+.video-stats{
+    font-size: 12px;
+    color: rgba(0, 0, 0,255);
+}
+
+.profile-picture1{
+    display:inline-block;
+    width:40px;
+    border-radius:80px;
+}
+
+.vidoe-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 16px;
+    row-gap:40px;
+}
+
+.videotime{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 2px;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 210px;
+    right: 13px;
+
+
+
+}
+
+
+.videottime{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 2px;
+    border-radius: 2px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 325px;
+    left: 760px;
+}
+
+
+
+.videottime1{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: -215px;
+    left: 340px;
+
+}
+
+.videottime2{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    right: 20px;
+    bottom: -210px;
+    left: 335px;
+    color: white;
+    background-color: black;
+    position: absolute;
+}
+
+
+.videottime3
+{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    bottom: -220px;
+    left: 335px;
+    right: 20px;
+    position: absolute;
+
+
+}
+
+
+.videottime4
+{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    bottom: -112px;
+    left: 1170px;
+    right: 175px;
+    position: absolute;
+
+
+}
